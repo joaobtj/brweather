@@ -16,3 +16,5 @@ Imports:
     plyr,
     rlang,
     stringr
+URL: https://github.com/joaobtj/brweather
+BugReports: https://github.com/joaobtj/brweather/issues
